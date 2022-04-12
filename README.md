@@ -12,7 +12,7 @@ https://glacial-depths-41114.herokuapp.com/paelia2
 * email : test@test  pass : test でログインできます！
 
 # 実際の画像
-<img src="https://user-images.githubusercontent.com/94834948/162897638-2023a045-4bc6-403a-8733-388f78a0f396.png" width="300">
+<img src="https://user-images.githubusercontent.com/94834948/162897638-2023a045-4bc6-403a-8733-388f78a0f396.png" width="450">
           
           
           
