@@ -10,3 +10,6 @@ heroku
 # URL
 https://glacial-depths-41114.herokuapp.com/paelia2  
 * email : test@test  pass : test でログインできます！
+
+# 実際の画像
+<img src="
