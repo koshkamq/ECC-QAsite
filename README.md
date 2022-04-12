@@ -8,3 +8,5 @@ BootStrap
 heroku
 
 # URL
+https://glacial-depths-41114.herokuapp.com/paelia2
+* email : test@test  pass : test でログインできます！
